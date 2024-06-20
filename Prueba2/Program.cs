@@ -15,17 +15,17 @@ List<string> listNames = new List<string>{
 List<int> NotasMate = new List<int>();
 List<int> NotasPorg = new List<int>();
 List<int> NotasDiseñoUI = new List<int>();
+while 
+    // Pedir al usuario escribir las notas de cada asignatura
+    Console.WriteLine("Introduzca la nota de Matematicas:");
+    int NotaMate = int.Parse(Console.ReadLine());
+    Console.WriteLine("Introduzca la nota de programacion:");
+    int NotaProg = int.Parse(Console.ReadLine());
+    Console.WriteLine("Introduzca la nota de Diseño UI:");
+    int NotaDiseñoUI = int.Parse(Console.ReadLine());
 
-// Pedir al usuario escribir las notas de cada asignatura
-Console.WriteLine("Introduzca la nota de Matematicas:");
-int NotaMate = int.Parse(Console.ReadLine());
-Console.WriteLine("Introduzca la nota de programacion:");
-int NotaProg = int.Parse(Console.ReadLine());
-Console.WriteLine("Introduzca la nota de Diseño UI:");
-int NotaDiseñoUI = int.Parse(Console.ReadLine());
 
 
-//Crear lista de Notas
 //Dar opciones para ordenar las listas
 //Mostrar por consola la lista ordenadna de alumnos
 //Nombre y nota
