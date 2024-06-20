@@ -40,10 +40,13 @@ using System.Linq;
             sumaNotas.Add(suma);
         }
 
-        // Mostrar suma por pantalla
+        // // Mostrar suma por pantalla y guardar en nuevo archivo
+        using (var writer = new StreamWriter(outputFilePath))
         {
             foreach (var suma in sumaNotas)
             {
+               
+                writer.WriteLine(suma);
                 Console.WriteLine(suma);
             }
         }
