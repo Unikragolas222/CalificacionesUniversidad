@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Crear lista Nombres
+//Crear lista de Notas
+//Dar opciones para ordenar las listas
+//Mostrar por consola la lista ordenadna de alumnos
+//Nombre y nota
