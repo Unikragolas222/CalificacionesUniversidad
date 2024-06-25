@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calificaciones Universidad"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prueba2", "..\Prueba2\Prueba2.csproj", "{5613C996-F9AC-4E6A-92F5-84DDE3BA2BCF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calificaciones", "..\..\Pruebas\Calificaciones\Calificaciones.csproj", "{538589B4-143C-42BD-852C-0EC479B6BCE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prueba 3 (DESDE CASA)", "..\..\Pruebas\Calificaciones\Prueba 3 (DESDE CASA).csproj", "{538589B4-143C-42BD-852C-0EC479B6BCE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
